@@ -1,0 +1,50 @@
+    Deploy app using https 
+     go file folder open git bash
+     git init
+      ls
+       git add .
+      git commit -m "your repo foleder"
+      git remote add origin ""
+      git push -u origin master
+      connect ssh 
+      go the key download folder
+     chmod
+     ssh connection
+     
+    1  yum update -y
+    2  yum install git
+    3  git clone https://github.com/saravanadattareddy/AWS-Demo-kuberntes.git master
+    4  ls
+    5  cd master
+    6  ls
+    7  git checkout master
+    8  git branch
+    9  git clone https://github.com/saravanadattareddy/AWS-Demo-kuberntes.git
+   10  ls
+   11  yum install httpd
+   12  cp /var/www/html
+   13  ls
+   14  cp assets/ /var/www/html
+   15  cp -r assets/ /var/www/html
+   16  cp -r error/ /var/www/html
+   17  cp -r images/ /var/www/html
+   18  cp -r index.html/ /var/www/html
+   19  cp  index.html /var/www/html
+   20  cd
+   21  cd /var/www/html
+   22  ls
+   23  systemctl start httpd
+   24  chkconfig httpd
+   25  yum install nodejs -y
+   26  history
+       ls
+       git add .
+      git commit -m "your repo foleder"
+      git remote add origin ""
+      git push -u origin master
+      connect ssh 
+      go the key download folder
+     chmod
+     ssh connection
+     
+
